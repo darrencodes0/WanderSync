@@ -24,3 +24,6 @@ python3 main.py
 ```
 
 Note: You will need to generate your own OAuth 2.0 Client IDs and API Keys within Google Cloud Platform to execute this project. Client IDs will be stored in /website/client_secret.json. API keys stored in /website/secret.py.
+
+Video Demo Preview:
+- https://www.youtube.com/watch?v=WxkOgZbmE7w
